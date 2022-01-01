@@ -6,7 +6,7 @@ Irkutsk, Russian Federation
 
 ![https://key0.cc/images/preview/11286_12d29407723d5ff853732414ec472bd5.png](https://discord.gg/J8yp55yG) 
 ![https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png](http://t.me/slavacalatrava)
-
+![Github](https://github.com/SlavaCho)
 ##_Profile_
 Newbie at programming. I am seeking a competitive and promising position where I can use my ability to communicate with people and take advantage of my knowledge of English. 
 I have: 
