@@ -20,6 +20,7 @@ I have:
 * Git
 * JavaScript
 ##### _Example of coding:_
+
 ``` 
 <style>
 .relative-position {
@@ -31,6 +32,7 @@ I have:
 
 <div class="relative-position">Что-то срочно надо выдумать такое</div>
 ```
+
 ## _Employment History_
 stay tuned
 
@@ -46,3 +48,4 @@ Bachelor of Cultural Studies at Irkutsck State University (Irkutsk)
 2. Fluent English B2
 3. Fluent German B2
 4. Polish A1-A2
+
