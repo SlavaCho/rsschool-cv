@@ -1,5 +1,7 @@
-![avatar](cv.avatar.jpg)
+![avatar](cv.ava.jpg)
+
 #SLAVA KHODOROV
+
 ##_Junior JS/FE Dev_
 Date of birth: 12.11.1998 (23 y.o); 
 Irkutsk, Russian Federation
