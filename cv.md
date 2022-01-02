@@ -4,9 +4,8 @@
 Date of birth: 12.11.1998 (23 y.o); 
 Irkutsk, Russian Federation
 
-[![Discord](ds64.png)](https://discord.gg/J8yp55yG) 
-![Telegram](tg64.png)](https://t.me/slavacalatrava)
-[![Github](git64.png)](https://github.com/SlavaCho)
+[![Discord](ds64.png)](https://discord.gg/J8yp55yG) [![Telegram](tg64.png)](https://t.me/slavacalatrava) [![Github](gt64.png)](https://github.com/SlavaCho)
+
 ##_Profile_
 Newbie at programming. I am seeking a competitive and promising position where I can use my ability to communicate with people and take advantage of my knowledge of English. 
 I have: 
