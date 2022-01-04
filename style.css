@@ -101,19 +101,19 @@ body {
 
 .github {
     color: rgb(65, 228, 206);
-    line-height: 45px;
+    line-height: 20px;
   }
 .rsschool-logo {
     width: 200px;
     height: 45px;
-    background-image: url("assets/img/rsschool-logo.jpg");
+    background-image: url("assets/rs_school_js.svg");
     background-size: contain;
     background-repeat: no-repeat;
   }
 
 .footer-container {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     align-items:flex-start;
     margin: 0 auto;
     color: rgba(46, 197, 177, 0.863);
