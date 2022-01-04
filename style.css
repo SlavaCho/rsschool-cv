@@ -1,0 +1,136 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #124453;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color:#4db9b46c;
+}
+
+.main {
+    background-color: bisque;
+}
+
+.footer {
+    background-color: rgb(36, 134, 158);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    list-style: none;
+}
+
+.html {
+    scroll-behavior: smooth; 
+}
+  
+.nav-link {
+    position: relative;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration-line: none;
+    text-decoration-color: rgba(255, 246, 205, 0.87);
+    transition: .3s;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.section {
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+}
+
+.section-title {
+    font-size: 30px;
+    font-weight: 500;
+    text-transform:capitalize;
+    letter-spacing: 1px;
+    color: #124453;
+}
+
+.pre {
+    padding: 0;
+    margin: 0;
+}
+
+.section-profile-logo {
+    width: 200px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 100%;
+    transition: .3s;
+}
+
+.github {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    line-height: 50px;
+}
+.rsschool-logo {
+    width: 200px;
+    height: 45px;
+    background-image: url(assets/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.footer-container {
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    margin: 0 auto;
+    color: rgba(46, 197, 177, 0.863);
+}
+
+.ul {
+    font-style:normal;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    list-style: square;
+}
+
+.img {
+
+    width: 100%;
+}
+
+.nav-link-contacts {
+    text-decoration-line: none;
+    text-decoration-color: rgba(255, 246, 205, 0.87);
+    transition: .3s; 
+}
+
+.nav-link-projects {
+    text-decoration-line: none;
+    text-decoration-color: rgba(255, 246, 205, 0.87);
+    transition: .3s;   
+}
