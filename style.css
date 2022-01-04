@@ -100,8 +100,9 @@ body {
   }
 
 .github {
-    color: rgb(65, 228, 206);
-    line-height: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    line-height: 50px;
   }
 .rsschool-logo {
     width: 200px;
@@ -117,4 +118,18 @@ body {
     align-items:flex-start;
     margin: 0 auto;
     color: rgba(46, 197, 177, 0.863);
+}
+
+.ul {
+    font-style:normal;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    list-style: square;
+}
+
+.img {
+
+    width: 100%;
+
 }
